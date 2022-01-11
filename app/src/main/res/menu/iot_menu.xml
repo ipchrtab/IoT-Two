@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!--
+        <item android:id="@+id/item_add_sensor"
+            android:icon="@drawable/ic_add_sensor"
+            android:title="@string/add_sensor"
+            app:showAsAction="ifRoom"  />
+    -->
+
+    <item android:id="@+id/item_ip_port"
+        android:title="@string/ip_port"
+        app:showAsAction="never"  />
+
+    <item android:id="@+id/itemGPS"
+        android:title="@string/gps"
+        app:showAsAction="never" >
+
+        <menu>
+            <item android:id="@+id/sub_item_manual"
+                android:title="@string/manual" />
+
+            <item android:id="@+id/sub_item_auto"
+                android:title="@string/auto"
+                app:showAsAction="never"  />
+        </menu>
+    </item>
+
+    <item android:id="@+id/item_exit"
+        android:title="@string/exit"
+        app:showAsAction="never"  />
+
+</menu>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">IoT Two</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sensor_activate">Ενεργοποίηση αισθητήρα</string>
+    <string name="optical_density">Optical Density</string>
+    <string name="indicator_UV">Δείκτης UV</string>
+    <string name="gas_concentration">Συγκέντρωση Αερίων</string>
+    <string name="temp">Θερμοκρασία</string>
+    <string name="gps">GPS Modes</string>
+    <string name="ip_port">Server IP and Port</string>
+    <string name="manual">Manual GPS mode</string>
+    <string name="auto">Auto GPS mode</string>
+    <string name="exit">Exit</string>
+    <string name="add_sensor">Add New Sensor</string>
+    <string name="connect">Connect</string>
+    <string name="start_data">Start sending sensor data</string>
+    <string name="stop">Stop</string>
+    <string name="ip_address">IP Address</string>
+    <string name="port">Port</string>
+    <string name="confirm">Confirm</string>
+    <string name="manual_gps_1">37.96809452684323, 23.76630586399502</string>
+    <string name="manual_gps_2">37.96799937191987, 23.766603589104385</string>
+    <string name="manual_gps_3">37.967779456380754, 23.767174897611685</string>
+    <string name="manual_gps_4">37.96790421900921, 23.76626294807113</string>
+
+</resources>
